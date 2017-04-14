@@ -1,0 +1,9 @@
+﻿  VulkanFunctions.cpp
+  VulkanCommon.cpp
+  Tutorial01.cpp
+  Tools.cpp
+  OperatingSystem.cpp
+  main.cpp
+  Generating Code...
+  Vulkan 101.vcxproj -> C:\Users\steve\Source\Repos\Vulkan101\Debug\Vulkan 101.exe
+  Vulkan 101.vcxproj -> C:\Users\steve\Source\Repos\Vulkan101\Debug\Vulkan 101.pdb (Partial PDB)
